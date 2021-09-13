@@ -28,7 +28,7 @@
 import config as cf
 import time
 from DISClib.ADT import list as lt
-from DISClib.Algorithms.Sorting import shellsort as sa
+from DISClib.Algorithms.Sorting import mergesort as sa
 assert cf
 
 """
